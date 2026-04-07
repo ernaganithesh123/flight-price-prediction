@@ -58,4 +58,7 @@ The main objective is to compare multiple machine learning models and identify w
 - Comparing model performance  
 - Importance of feature engineering in ML  
 
+- Models were evaluated using metrics such as R² Score / RMSE
+- Random Forest Regressor achieved the best performance.
+
 ---
